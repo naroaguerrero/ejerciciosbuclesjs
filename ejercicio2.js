@@ -5,4 +5,4 @@ for (let i = 0; i <= numero; i++) {
   total = total + i;
 }
 
-document.write(`La suma de ${numero} es ${total}`);
+console.log(`La suma de ${numero} es ${total}`);
